@@ -1,0 +1,25 @@
+{
+  "name": "multiselect",
+  "version": "1.0.0",
+  "description": "select checkboxes",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sivalaxman7/checkboxselect.git"
+  },
+  "keywords": [
+    "select"
+  ],
+  "author": "siva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sivalaxman7/checkboxselect/issues"
+  },
+  "homepage": "https://github.com/sivalaxman7/checkboxselect#readme",
+  "dependencies": {
+    "react-multiselect-checkboxes": "^0.1.1"
+  }
+}
