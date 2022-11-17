@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactMultiSelectCheckboxes from 'react-multiselect-checkboxes';
-import SelectDisplay from './SelectDisplay';
+import SelectDisplay from './Selectdisplay';
 
 const index = () => {
 return (
