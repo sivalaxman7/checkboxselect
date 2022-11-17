@@ -3,7 +3,7 @@ import ReactMultiSelectCheckboxes from 'react-multiselect-checkboxes';
 import SelectDisplay from './SelectDisplay';
 
 const index = () => {
-  return (
+return (
     <div>
 <ReactMultiSelectCheckboxes
     placeholderButtonLabel="Invoice View"
